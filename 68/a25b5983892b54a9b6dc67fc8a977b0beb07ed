@@ -1,0 +1,29 @@
+package.json
+  s_3bb6c650e1f72f::t_7f4f0d4b164597 43
+  h_3070dc1062bb3b 3
+  s_3bb6c650e1f72f::t_ea466be5224c11 51
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.4",
+  "base_commit_sha": "68a25b5983892b54a9b6dc67fc8a977b0beb07ed",
+  "prompts": {},
+  "humans": {
+    "h_3070dc1062bb3b": {
+      "author": "liuxy0551 <liuxy0551@qq.com>"
+    },
+    "h_98b8b691222da1": {
+      "author": "liuxy0551"
+    }
+  },
+  "sessions": {
+    "s_3bb6c650e1f72f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "461d8f47-c065-4eec-ae3f-e0328bdc32be",
+        "model": "unknown"
+      },
+      "human_author": null
+    }
+  }
+}
