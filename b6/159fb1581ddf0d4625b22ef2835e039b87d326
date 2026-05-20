@@ -1,0 +1,28 @@
+package.json
+  h_3070dc1062bb3b 3
+  3bb6c650e1f72ff7 43,51
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.10",
+  "base_commit_sha": "b6159fb1581ddf0d4625b22ef2835e039b87d326",
+  "prompts": {
+    "3bb6c650e1f72ff7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "461d8f47-c065-4eec-ae3f-e0328bdc32be",
+        "model": "mimo-v2.5-pro"
+      },
+      "human_author": "liuxy0551 <liuxy0551@qq.com>",
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 2,
+      "overriden_lines": 0
+    }
+  },
+  "humans": {
+    "h_3070dc1062bb3b": {
+      "author": "liuxy0551 <liuxy0551@qq.com>"
+    }
+  }
+}
